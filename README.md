@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dracomalfoy13
-- 👀 I’m interested in javascript.
-- 🌱 I’m currently learning html, css, java.
+- 👀 I’m interested in javascript and python.
+- 🌱 I’m currently learning html, css, java, python.
 - 💞️ I’m looking to collaborate on definately games.
 - 📫 How to reach me, just email me at dracomalfoy13@gmail.com! :D
 
