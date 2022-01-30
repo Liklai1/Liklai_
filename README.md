@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @dracomalfoy13
-- 👀 I’m interested in javascript and python.
-- 🌱 I’m currently learning html, css, java, python.
-- 💞️ I’m looking to collaborate on definately games.
-- 📫 How to reach me, just email me at dracomalfoy13@gmail.com! :D
 
 <!---
 dracomalfoy13/dracomalfoy13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
